@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-// KAMEL AHMED KAMEL G2 
+// Kareem Elbalshy G2 
 union UserStatus {
     int isActive;
     int isInactive;
